@@ -1,3 +1,5 @@
 # examples
 
+:dog:
 :cat:
+:bird:
